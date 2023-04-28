@@ -7,3 +7,4 @@
 
 - DDI protocol is aimed at building an open and secure decentralized trading platform which eliminates the need to trust or depend completely on failing centralized exchanges.
 
+website: https://ddindex.trade
